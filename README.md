@@ -44,3 +44,4 @@ Open [http://localhost:5173](http://localhost:5173).
 - React Router 7
 - Context API + localStorage persistence
 "# my-ecommerce-project" 
+"# my-ecommerce-project" 
