@@ -43,5 +43,13 @@ Open [http://localhost:5173](http://localhost:5173).
 - React 19 + Vite 6
 - React Router 7
 - Context API + localStorage persistence
-"# my-ecommerce-project" 
-"# my-ecommerce-project" 
+
+## Live site (GitHub Pages)
+
+**URL:** https://sultanahmed00.github.io/my-ecommerce-project/
+
+After pushing to `main`, enable deployment once:
+
+1. Open **Settings → Pages** on GitHub
+2. Under **Build and deployment → Source**, choose **GitHub Actions**
+3. Wait 2–3 minutes for the workflow to finish, then hard-refresh the site (Ctrl+F5)
